@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi 👋, I'm Tanuja Yadav
 
-<!--
-**tanujayadav002/tanujayadav002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Excel | SQL | Power BI | Python | Machine Learning  
+Turning data into insights and predictive solutions
 
-Here are some ideas to get you started:
+- 📊 Aspiring Data Analyst / ML Enthusiast
+- 🌱 Currently learning *Python, Machine Learning, Power BI, SQL*
+- 🤖 Interested in *Data Analysis, ML Models & Business Insights*
+- 💬 Ask me about *Excel, SQL, Power BI, Python, Machine Learning*
+- 📫 Reach me: your-email@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+- Excel (Advanced)
+- SQL / MySQL
+- Power BI
+- Python
+- Machine Learning (Regression, Classification)
+- Pandas, NumPy, Matplotlib
+- Jupyter Notebook
+
+---
+
+### 📌 Projects
+- 🔹 Payment Delay Prediction (Machine Learning)
+- 🔹 HR Attrition Model (Classification)
+- 🔹 CGPA & Package Prediction (Regression)
+
+  
+### 🔗 Connect with me
+- 💼 LinkedIn:https://www.linkedin.com/in/tanujayadav
