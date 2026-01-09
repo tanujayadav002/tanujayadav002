@@ -7,7 +7,7 @@ Turning data into insights and predictive solutions
 - 🌱 Currently learning *Python, Machine Learning, Power BI, SQL*
 - 🤖 Interested in *Data Analysis, ML Models & Business Insights*
 - 💬 Ask me about *Excel, SQL, Power BI, Python, Machine Learning*
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me:tanujayadav002@gmail.com
 
 ---
 
